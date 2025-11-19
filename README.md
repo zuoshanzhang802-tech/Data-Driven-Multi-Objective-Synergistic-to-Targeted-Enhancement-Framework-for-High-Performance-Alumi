@@ -1,2 +1,2 @@
-# 在这里我们提供了所有的数据集和代码，以及库和库的版本信息
+# This resource package contains the entire dataset used in the study, the source code, and a detailed list of dependency versions.
 
