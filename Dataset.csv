@@ -1,5 +1,5 @@
 # You can find the dataset in the paper titled "NSGAN: A Non-dominated Sorting Optimization-based Generative Adversarial Design Framework for Alloy Discovery." And for your convenience in reviewing, we have pasted the entire contents of the dataset below.
- ,Processing,Ag,Al,B,Be,Bi,Cd,Co,Cr,Cu,Er,Eu,Fe,Ga,Li,Mg,Mn,Ni,Pb,Sc,Si,Sn,Ti,V,Zn,Zr,Elongation (%),Tensile Strength (MPa),Yield Strength (MPa),class
+ \,Processing,Ag,Al,B,Be,Bi,Cd,Co,Cr,Cu,Er,Eu,Fe,Ga,Li,Mg,Mn,Ni,Pb,Sc,Si,Sn,Ti,V,Zn,Zr,Elongation (%),Tensile Strength (MPa),Yield Strength (MPa),class
 0,Solutionised  + Artificially peak aged,0,0.88011,0,0,0,0,0,0,0.0198,0,0,0.00055,0,0,0.0212,0,0,0,0,0.00034,0,0,0,0.0768,0.0012,16.8,651.6,583.3,2
 1,Solutionised + Artificially over aged,0,0.88011,0,0,0,0,0,0,0.0198,0,0,0.00055,0,0,0.0212,0,0,0,0,0.00034,0,0,0,0.0768,0.0012,15.4,557,513,4
 2,Solutionised  + Artificially peak aged,0,0.9945,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0055,0,0,0,0,0,0,10.5,320,300,2
