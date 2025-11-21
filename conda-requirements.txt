@@ -1,4 +1,4 @@
-# Here we provide all datasets, code, as well as library and version information.
+# Here we provide all library and version information.
 # This file may be used to create an environment using:
 # $ conda create --name <env> --file <this file>
 # platform: win-64
